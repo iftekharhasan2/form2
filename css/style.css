@@ -1,0 +1,101 @@
+*{margin: 0;
+    padding: 0;}
+    
+    body{
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        margin-top: 4rem;
+        /* background-color: aqua; */
+        font-family: "Poppins", Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.8;
+        font-weight: normal;
+        background: #fafafa;
+        color: gray;
+        background-image: url(images/cover\ pc.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    
+    .main{
+        
+       
+        width: 100%;
+        height: 50rem;
+        /* background-color: blue; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+    
+    .head{
+        /* background-color: brown; */
+        text-align: center;
+        }
+    
+    .head h1{/* background-color: brown; */color: white;font-size: 2rem;/* width: 90%; */FONT-WEIGHT: 400;}
+    
+    .form{display: flex;/* background-color: burlywood; */justify-content: center;height: 37.5rem;/* width: 90%; */}
+    
+    .details{/* background-color: cadetblue; */width: 32%;padding: 3rem;}
+    
+    .details h2{/* background-color: chocolate; */font-size: 2rem;FONT-WEIGHT: 400;color: white;padding: 1rem 0rem;}
+    
+    .details p{/* background-color: chartreuse; */}
+    
+    .titel{display: flex;padding: 1rem 0rem;}
+    
+    .im{/* background-color: yellowgreen; */width: 5%;height: 100%;margin-right: 32px;font-size: 30px;display: flex;justify-content: center;}
+    
+    .td{background-color: ;}
+    
+    .td h3{
+        /* background-color: violet; */
+        font-weight: 400;
+        color: rgba(255, 255, 255, 0.4);
+        font-size: 20px;
+        display: block;
+        text-transform: uppercase;
+        }
+    
+    .td p{/* background-color: turquoise; */font-size: 16px;}
+    
+    .input{background-color: white;width: 25%;margin-top: 31px;padding: 2rem 3.5rem;border-radius: 8px;}
+    
+    .input {}
+    
+    #email{/* background-color: steelblue; */width: 100%;padding-left: 10px;height: 3rem;margin-bottom: 1rem;border: 1px solid;}
+    
+    #password{/* background-color: springgreen; */width: 100%;height: 3rem;padding-left: 10px;margin-bottom: 1rem;border: 1px solid;}
+    
+    #textarea{/* background-color: slateblue; */width: 97%;padding: 10px;border: 1px solid;}
+    
+    #date{background-color: sienna;width: 50%;margin-bottom: 1rem;}
+    
+    #name{/* background-color: royalblue; */border: 1px solid;width: 100%;padding-left: 10px;height: 3rem;margin-bottom: 1rem;}
+    
+    #submit{background-color: #0787ff;width: 45%;height: 40px;color: white;border-radius: 10px;font-size: 10px;text-transform: uppercase;}
+    .input h1{
+    padding: 0rem 0rem;
+    width: 95%;
+    color: black;
+    font-size: 2rem;
+    FONT-WEIGHT: 400;
+    margin-bottom: 12px;
+}
+
+.m{
+    width: 80%;
+    /* height: 70rem; */
+}
+
+#submit:hover{background-color: #006fdc;
+transition: 0.3s all ease-in;}
+
+
+ 
+    
+    
